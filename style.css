@@ -1,0 +1,17 @@
+     table {
+         border-collapse: separate;
+         border-spacing: 0 10px;
+         /* adds vertial space between rows */
+     }
+
+     td {
+         padding: 8px 12px;
+         /* inner cell padding */
+     }
+
+    img{
+        width: 100%;
+    }
+    .test {
+        color:red
+    }
