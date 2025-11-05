@@ -9,9 +9,10 @@
          /* inner cell padding */
      }
 
-    img{
-        width: 100%;
-    }
-    .test {
-        color:red
-    }
+     img {
+         width: 50%;
+     }
+
+     .statement {
+         color: rgb(23, 23, 133)
+     }
